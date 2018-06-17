@@ -14,7 +14,6 @@ public class Example1 {
     // String args[] declares a variable with the data type of a string
 
 
-
     public static void main(String args[])
 
     // "System" is a predefined class that provides access to the system
