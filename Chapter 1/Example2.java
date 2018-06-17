@@ -8,6 +8,10 @@
 
 
 public class Example2 {
+	
+	/*
+	 * Use if to specify a block of code to be executed, if a specified condition is true.
+	 */
 
 	public static void main (String args[])
 	{
