@@ -19,6 +19,11 @@ public class AlphabetCh {
 
 		}
 		
+		//ascii value of the alphabet
+		// the char forces the integer value to a char value.
+		for ( int ascii = 65; ascii <= 90; ascii++){
+			System.out.println("ascii value contains: "+ (char)ascii);
+		}
 		
 				
 		
