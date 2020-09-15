@@ -10,6 +10,9 @@
 public class Example1 {
 
     // A Java program begins with a call to main()
+    // The public is a type of Access Specifier in java, can be accessed by any class
+    // static keyword in Java is used for memory management 
+    // main() method is always static because jvm will consider it is a starting point to start program execution.
     // The void means that it would not return a value
     // String args[] declares a variable with the data type of a string
 
